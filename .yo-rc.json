@@ -1,0 +1,19 @@
+{
+  "generator-ngx-rocket": {
+    "version": "4.0.0",
+    "props": {
+      "appName": "first pwa",
+      "target": [
+        "web"
+      ],
+      "pwa": true,
+      "ui": "material",
+      "layout": "side-menu",
+      "auth": false,
+      "lazy": false,
+      "projectName": "first-pwa",
+      "packageManager": "npm",
+      "mobile": []
+    }
+  }
+}
